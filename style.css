@@ -1,0 +1,25 @@
+h1,h2{
+    background-color: purple;
+    color:red; 
+}
+#abhi{
+    background-color:black;
+    color:white;
+}
+#nonu{
+    background-color:blue;
+    color:white;
+}
+#gonu{
+    background-color:orange;
+    color:white;
+}
+#pooja{
+    background-color:red;
+    color:green;
+}
+p{
+    background-color:orange;
+    color:brown;
+}
+
